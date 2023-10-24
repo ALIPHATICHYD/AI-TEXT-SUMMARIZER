@@ -10,3 +10,4 @@ This project is a tutorial on how to build a text summarization application usin
 # Installation
 1. Clone this repository
 2. Run `npm install` to install the dependencies
+3. Run live server to start the server
